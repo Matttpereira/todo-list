@@ -1,4 +1,4 @@
-# ToDo List PWI
+# ToDo List
 
 Uma aplicação web simples e intuitiva de Lista de Tarefas (ToDo List). O projeto permite criar, editar, excluir, pesquisar, filtrar e acompanhar o progresso das tarefas, contando também com persistência de dados local.
 
@@ -70,7 +70,6 @@ O script gerencia a interatividade através dos seguintes ouvintes de eventos:
    ├── JS/
    │   └── script.js
    └── img/
-       ├── Logo.jpg
        └── fundo.jpg
 
 2. Abra o arquivo index.html diretamente em qualquer navegador web de sua preferência.
