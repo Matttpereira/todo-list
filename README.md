@@ -1,5 +1,9 @@
 # ToDo List
 
+🔗 **Ver online:** https://matttpereira.github.io/todo-list/
+
+![Screenshot da ToDo List](img/docs/screenshot.png)
+
 Uma aplicação web simples e intuitiva de Lista de Tarefas (ToDo List). O projeto permite criar, editar, excluir, pesquisar, filtrar e acompanhar o progresso das tarefas, contando também com persistência de dados local.
 
 ## Funcionalidades
@@ -71,5 +75,12 @@ O script gerencia a interatividade através dos seguintes ouvintes de eventos:
    │   └── script.js
    └── img/
        └── fundo.jpg
+   ```
 
-2. Abra o arquivo index.html diretamente em qualquer navegador web de sua preferência.
+2. Abra o arquivo `index.html` diretamente em qualquer navegador web de sua preferência.
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
